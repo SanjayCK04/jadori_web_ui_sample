@@ -47,7 +47,7 @@ const Index = () => {
                 </Button>
               </Link>
               <Link to="/auth?mode=signup">
-                <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground px-8 py-6 text-sm uppercase tracking-widest font-sans">
+                <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 px-8 py-6 text-sm uppercase tracking-widest font-sans">
                   List Your Bag
                 </Button>
               </Link>
@@ -201,7 +201,7 @@ const Index = () => {
                 </Button>
               </Link>
               <Link to="/auth?mode=signup">
-                <Button size="lg" variant="outline" className="border-primary-foreground/20 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground px-10 py-6 uppercase tracking-widest text-sm font-sans">
+                <Button size="lg" variant="outline" className="border-primary-foreground/20 hover:bg-primary-foreground/10 px-10 py-6 uppercase tracking-widest text-sm font-sans">
                   List Your Bag
                 </Button>
               </Link>
